@@ -38,7 +38,7 @@ Backend
 
 Frontend
 
-- Electron e Vite: Para criar uma aplicação desktop interativa.
+- React e Vite: Para criar uma aplicação desktop interativa.
 - JavaScript e HTML/CSS: Para desenvolvimento da interface do usuário.
 
 Funcionalidades
