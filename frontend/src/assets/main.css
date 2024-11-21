@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ocultar a scrollbar, mas permitir o scroll */
+.no-scrollbar::-webkit-scrollbar {
+  display: none; /* Para navegadores baseados em WebKit (Chrome, Safari) */
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;  /* Para Internet Explorer e Edge */
+  scrollbar-width: none;     /* Para Firefox */
+}
